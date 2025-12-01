@@ -65,7 +65,7 @@ url_formulario <- "https://forms.gle/4AGu9StQKVsVvj5x7"
 
 ```
 
-## Fila 0. Texto introductorio {height="15%"}
+## Fila 0. Texto introductorio {height="25%"}
 
 ::: {.card width="80%"}
 
@@ -78,7 +78,7 @@ Este tablero forma parte del tutorial **“Automatiza la publicación de tus rep
 #| title: "Respuestas"
 #| icon: chat-dots
 #| color: "#93D8B9"
-#| width: 30%
+#| width: 20%
 #| fill: false
 
 htmltools::HTML(
