@@ -67,7 +67,7 @@ url_formulario <- "https://forms.gle/4AGu9StQKVsVvj5x7"
 
 ## Fila 0. Texto introductorio {height="25%"}
 
-::: {.card width="80%"}
+::: {.card width="70%"}
 
 Este tablero forma parte del tutorial **“Automatiza la publicación de tus reportes con Quarto y GitHub Actions”**, dictado en el marco de **LatinR 2025**. Su finalidad es exclusivamente ilustrativa: muestra un flujo de trabajo reproducible que conecta un formulario en línea con un dashboard generado automáticamente a partir de las respuestas recibidas. Fue actualizado por última vez el **`r format(ultima_actualizacion, '%d/%m/%Y %H:%M')`**. Está asociado a este 👉[formulario](`r url_formulario`).  
 
@@ -78,7 +78,7 @@ Este tablero forma parte del tutorial **“Automatiza la publicación de tus rep
 #| title: "Respuestas"
 #| icon: chat-dots
 #| color: "#93D8B9"
-#| width: 20%
+#| width: 30%
 #| fill: false
 
 htmltools::HTML(
