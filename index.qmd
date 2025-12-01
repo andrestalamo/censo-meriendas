@@ -78,7 +78,7 @@ Este tablero forma parte del tutorial **“Automatiza la publicación de tus rep
 #| title: "Respuestas"
 #| icon: chat-dots
 #| color: "#93D8B9"
-#| width: 20%
+#| width: 30%
 #| fill: false
 
 htmltools::HTML(
